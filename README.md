@@ -1,4 +1,4 @@
-# touch_for_windows  (Touch command for windows command line)
+# Touch command for windows command line
 
 
 <picture>
