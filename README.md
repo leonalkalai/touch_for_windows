@@ -2,9 +2,9 @@
 🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
- <img alt="baby coder image" src="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
+ <img alt="Linux_Touch_Commands" src="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
 </picture>
 
 ### Installation Instrunctions
