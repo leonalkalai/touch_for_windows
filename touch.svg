@@ -77,11 +77,11 @@
             border: none;
           }
         }
-        @media (min-width: 460px) {
+        @media (max-width: 460px) {
             .container div{
             padding: 12px;
-            display: flex;
-            flex-direction: column;
+            display: flex!important;
+            flex-direction: column!important;
             line-height: 25px;
           }
         }
