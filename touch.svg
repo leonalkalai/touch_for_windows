@@ -65,11 +65,12 @@
           }
         }
 
-         @media (min-width: 800px) and (max-width: 1440px) {
+         @media (max-width: 370px) {
           .container {
             flex-direction: column;
-            font-size:0.6em;
-            height:100vh;
+            font-size:0.5em;
+            height: auto;
+            width: min-content;
           }
           .usage{
             border: none;
