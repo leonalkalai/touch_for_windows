@@ -1,7 +1,7 @@
 # Touch command for windows command line
 🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴
 
-![touch image](touch.svg)
+<!--[touch image](touch.svg)-->
 
 <div style="width: 100%;">
   <a href=""><img src="touch.svg" style="width: 100%;" alt="Click to download the file"></a>
