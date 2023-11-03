@@ -5,8 +5,8 @@
 <br/>
 
 <div style="width: 100%;">
-  <a href="https://leonalkalai.github.io/touch_for_windows/touch.exe">
-   <img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: 100%;height: 60vh; border-radius: 25px; margin: 0 auto;text-align: center;justify-content: center;align-items: center;display: flex;" alt="Click to download the file">
+  <a style="display: flex; justify-content: center; align-items: center;" href="https://leonalkalai.github.io/touch_for_windows/touch.exe">
+   <img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: auto;height: 60vh; border-radius: 25px; margin: 0 auto;text-align: center;justify-content: center;align-items: center;display: flex;" alt="Click to download the file">
   </a>
 </div>
 
