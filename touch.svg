@@ -76,8 +76,15 @@
           .usage{
             border: none;
           }
+            .container div {
+            padding: 20px;
+            line-height: 25px;
+            display: flex!important;
+            flex-direction: column!important;
+            line-height: 25px;
+          }
         }
-        @media (max-width: 460px) {
+        @media (min-width: 665px) {
             .container div{
             padding: 12px;
             display: flex!important;
