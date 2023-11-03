@@ -18,7 +18,14 @@
 ## create multiple files
 ``` touch name_of_file1 > name_of_file2 ``` 
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 
 ### Usefull links and resources
 <a href="http://myc01.free.fr/touch/"  target="_blank">myc01.free.fr</a><br/>
