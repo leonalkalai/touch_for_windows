@@ -42,7 +42,7 @@
 
       <div class="container">
         <h1>Installation Instrunctions</h1>
-        1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
+        1. 🔴 Download the file "https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" 
         2. 🟢 Save the file to path "C:Program files".
         3. 🟡 :+1: Now your 'touch' command will work!
 
@@ -50,7 +50,7 @@
         ## create a file
         ``` touch name_of_file ```
         ## create multiple files
-        ``` touch name_of_file1 &gt; name_of_file2 ``` 
+         touch name_of_file1 &gt; name_of_file2 ``` 
 
       </div>
     </div>
