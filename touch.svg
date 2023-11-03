@@ -40,10 +40,12 @@
         }
 
         .container div{
-          padding:20px;
+          padding:15px;
+          box-sizing: border-box;
           display: grid;
           grid-template-rows: repeat(auto-fill, minmax(25px, 1fr));
           line-height: 25px;
+          box-sizing: border-box;
         }
 
         .usage{
@@ -64,11 +66,12 @@
             border: none;
           }
           .container div {
-            padding: 20px;
+            padding: 15px;
             line-height: 25px;
             display: flex!important;
             flex-direction: column!important;
             line-height: 25px;
+            box-sizing: border-box;
           }
 
           
@@ -86,11 +89,12 @@
             border: none;
           }
           .container div {
-            padding: 20px;
+            padding: 15px;
             line-height: 25px;
             display: flex!important;
             flex-direction: column!important;
             line-height: 25px;
+            box-sizing: border-box;
           }
         }
         @media (min-width: 665px) {
@@ -99,6 +103,7 @@
             display: flex!important;
             flex-direction: column!important;
             line-height: 25px;
+            box-sizing: border-box;
           }
         }
       </style>
