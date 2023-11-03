@@ -1,7 +1,7 @@
 # Touch command for windows command line
 🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴
 
-![touch image](touch.svg)
+<a href="">![touch image](touch.svg)</a>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
