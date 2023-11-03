@@ -3,8 +3,8 @@
 
 <!--[touch image](touch.svg)-->
 
-<div style="width: 100%;">
-  <a href=""><img src="touch.svg" style="width: 100%; height: calc(280px + 4em);" alt="Click to download the file"></a>
+<div style="width: 100%; height: auto;">
+  <a href=""><img src="touch.svg" style="width: 100%; height: 300px;" alt="Click to download the file"></a>
 </div>
 
 
