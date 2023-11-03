@@ -4,7 +4,7 @@
 <!--[touch image](touch.svg)-->
 
 <div style="width: 100%; height: auto;">
-  <a href=""><img src="touch.svg" style="width: 100%; height: 300px;" alt="Click to download the file"></a>
+  <a href=""><img src="touch.svg" style="width: 100%; height: 500px;" alt="Click to download the file"></a>
 </div>
 
 
