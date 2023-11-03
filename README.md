@@ -2,8 +2,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/21139137?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/21139137?v=4">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
  <img alt="baby coder image" src="https://avatars.githubusercontent.com/u/21139137?v=4">
 </picture>
 
