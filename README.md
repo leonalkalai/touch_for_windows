@@ -1,15 +1,6 @@
 # Touch command for windows command line
 🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
- <source media="(prefers-color-scheme: light)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
- <img alt="Linux_Touch_Commands" src="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
-</picture>
-
-#
-#
-
 <!--[touch image](touch.svg)-->
 
 <div style="width: 100%;">
@@ -20,8 +11,13 @@
 
 #
 #
-
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
+ <img alt="Linux_Touch_Commands" src="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
+</picture>
+#
+#
 ### Installation Instrunctions
 1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
 2. 🟢 Save the file to path "C:Program files".
