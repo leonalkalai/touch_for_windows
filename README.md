@@ -6,13 +6,15 @@
  <source media="(prefers-color-scheme: light)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
  <img alt="Linux_Touch_Commands" src="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
 </picture>
-
+#
+#
 <!--[touch image](touch.svg)-->
 
 <div style="width: 100%; height: auto;">
   <a href="https://leonalkalai.github.io/touch_for_windows/touch.exe"><img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: 100%; height: 500px;" alt="Click to download the file"></a>
 </div>
-
+#
+#
 ### Installation Instrunctions
 1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
 2. 🟢 Save the file to path "C:Program files".
