@@ -63,6 +63,15 @@
           .usage{
             border: none;
           }
+          .container div {
+            padding: 20px;
+            line-height: 25px;
+            display: flex!important;
+            flex-direction: column!important;
+            line-height: 25px;
+          }
+
+          
         }
 
          @media (max-width: 550px) {
@@ -76,7 +85,7 @@
           .usage{
             border: none;
           }
-            .container div {
+          .container div {
             padding: 20px;
             line-height: 25px;
             display: flex!important;
