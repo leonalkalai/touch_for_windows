@@ -6,7 +6,7 @@
 
 <div style="width: 100%;">
   <a href="https://leonalkalai.github.io/touch_for_windows/touch.exe">
-   <img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: 100%; height: 60vh; background: aliceblue;border-radius: 25px;" alt="Click to download the file">
+   <img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: min-content;height: 60vh; border-radius: 25px; margin: 0 auto;text-align: center;justify-content: center;align-items: center;display: flex;" alt="Click to download the file">
   </a>
 </div>
 
