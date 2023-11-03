@@ -18,8 +18,7 @@
 
 #
 #
-#
-#
+
 
 ### Installation Instrunctions
 1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
