@@ -12,7 +12,7 @@
 
 <!--[touch image](touch.svg)-->
 
-<div style="width: 100%; height: auto;">
+<div style="width: 100%; height: 100vh;">
   <a href="https://leonalkalai.github.io/touch_for_windows/touch.exe"><img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: 100%; height: auto;" alt="Click to download the file"></a>
 </div>
 
