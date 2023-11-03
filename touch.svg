@@ -72,6 +72,12 @@
             height: 60vh;
             width: min-content;
           }
+          .container div{
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            line-height: 25px;
+          }
           .usage{
             border: none;
           }
