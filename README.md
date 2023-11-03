@@ -14,8 +14,8 @@
 
 
 ### Usefull links and resources
-<a href="http://myc01.free.fr/touch"  target="_blank">myc01.free.fr</a><br/>
-<a href="https://www.npmjs.com/package/touch-for-windows" target="_blank">touch-for-windows</a>
+<a href="http://myc01.free.fr/touch/"  target="_blank">myc01.free.fr</a><br/>
+<a href="https://www.npmjs.com/package/touch-for-windows/" target="_blank">touch-for-windows</a>
 
 
 
