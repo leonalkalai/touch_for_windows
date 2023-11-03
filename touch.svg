@@ -60,6 +60,12 @@
             flex-direction: column;
             font-size:0.8em;
           }
+            .container div{
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            line-height: 25px;
+          }
           .usage{
             border: none;
           }
@@ -72,12 +78,7 @@
             height: 60vh;
             width: min-content;
           }
-          .container div{
-            padding: 12px;
-            display: flex;
-            flex-direction: column;
-            line-height: 25px;
-          }
+        
           .usage{
             border: none;
           }
