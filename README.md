@@ -11,13 +11,19 @@
 1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
 2. 🟢 Save the file to path "C:Program files".
 3. 🟡 :+1: Now your 'touch' command will work!
- <br/><br/>
+#
+#
+#
+#
 ### Usage
 ## create a file
 ``` touch name_of_file ```
 ## create multiple files
 ``` touch name_of_file1 > name_of_file2 ``` 
- <br/><br/>
+#
+#
+#
+#
 
 > [!IMPORTANT]  
 > Save the file to path "C:Program files".
