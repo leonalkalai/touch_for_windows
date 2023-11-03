@@ -8,6 +8,6 @@ Now your 'touch' command will work now.
 (https://sourceforge.net/projects/touchforwindows/) or 
 
 
-<a href="[downloadURL](https://github.com/leonalkalai/touch_for_windows/blob/baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72/touch.exe)https://github.com/leonalkalai/touch_for_windows/blob/baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72/touch.exe" target="_blank" />
+<a href="https://github.com/leonalkalai/touch_for_windows/blob/baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72/touch.exe)https://github.com/leonalkalai/touch_for_windows/blob/baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72/touch.exe" target="_blank" />
 
 
