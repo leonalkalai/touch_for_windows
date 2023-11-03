@@ -4,8 +4,9 @@
 <!--[touch image](touch.svg)-->
 
 <div style="width: 100%;">
-  <a href=""><img src="touch.svg" style="width: 100%;" alt="Click to download the file"></a>
+  <a href=""><img src="touch.svg" style="width: 100%; height: calc(280px + 4em);" alt="Click to download the file"></a>
 </div>
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://leonalkalai.github.io/touch_for_windows/Linux_Touch_Commands.png">
