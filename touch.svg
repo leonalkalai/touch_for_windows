@@ -15,7 +15,6 @@
 
         .container {
           background-color: black;
-
           width: 100%;
           height: 100%;
           font-size:1em;
@@ -23,9 +22,8 @@
           justify-content: center;
           align-items: center;
           color: white;
-          justify-content: center;
           align-items: flex-start;
-
+          justify-content: space-between;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
@@ -43,32 +41,44 @@
 
         .container div{
           padding:20px;
+          display: grid;
+          grid-template-rows: repeat(auto-fill, minmax(25px, 1fr));
         }
+
+        .usage{
+          border-left: 10px solid gray;
+        }
+
+        mark{
+          padding:5px;
+        }
+       
 
         @media (max-width: 800px) {
           .container {
             flex-direction: column;
-            font-size:0.8rem;
+            font-size:0.8em;
+          }
+          .usage{
+            border: none;
           }
         }
       </style>
 
       <div class="container">
-      <div>
-        <h1>Installation Instrunctions</h1>
-        1. 🔴 Download the file "https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" 
-        2. 🟢 Save the file to path "C:Program files".
-        3. 🟡 :+1: Now your 'touch' command will work!
-      </div>
-      <div>
-        <h2>Usage</h2>
-        <p>
-        create a file
-        touch name_of_file 
-        create multiple files
-        touch name_of_file1 &gt; name_of_file2  
-        </p>
-      </div>
+        <div>
+          <h1>Installation Instrunctions</h1>
+          <p>1. 🔴 Download the file <mark>https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe</mark></p>
+          <p>2. 🟢 Save the file to path <mark>C:Program files"</mark></p>
+          <p>3. 🟡 👍 Now your <mark>touch</mark> command will work!</p>
+        </div>
+        <div class="usage">
+          <h2>Usage</h2>
+          <h3>🔴create a file</h3>
+          <p><mark>touch name_of_file</mark></p>
+          <h3>🟢create multiple files</h3>
+          <p><mark>touch name_of_file1 &gt; name_of_file2</mark></p>
+        </div>
       </div>
     </div>
   </foreignObject>
