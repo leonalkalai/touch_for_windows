@@ -5,7 +5,7 @@
 <br/>
 
 <div style="width: 100%;">
-  <a style=" display: flex; justify-content: center; align-items: center; width:100%;" href="https://leonalkalai.github.io/touch_for_windows/touch.exe">
+  <a style="display: 'flex'; justify-content: 'center'; align-items: 'center'; width:'100%;'" href="https://leonalkalai.github.io/touch_for_windows/touch.exe">
    <img src="https://leonalkalai.github.io/touch_for_windows/touch.svg" style="width: 100%;height: 60vh; border-radius: 25px; margin: 0 auto;text-align: center;justify-content: center;align-items: center;display: flex;" alt="Click to download the file">
   </a>
 </div>
