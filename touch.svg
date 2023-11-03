@@ -50,7 +50,7 @@
         ## create a file
         ``` touch name_of_file ```
         ## create multiple files
-        ``` touch name_of_file1 > name_of_file2 ``` 
+        ``` touch name_of_file1 &gt; name_of_file2 ``` 
 
       </div>
     </div>
