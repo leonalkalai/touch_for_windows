@@ -8,4 +8,5 @@ Now your 'touch' command will work now.
 (https://sourceforge.net/projects/touchforwindows/) or 
 
 
-baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72
+https://github.com/leonalkalai/touch_for_windows/blob/baa02cb3e1a1b2166b4ec6ec46db329fffdf7b72/touch.exe
+
