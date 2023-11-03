@@ -1,5 +1,5 @@
 # Touch command for windows command line
-
+🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴🟢🟡🔵🟣🔴
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leonalkalai/touch_for_windows/blob/main/Linux_Touch_Commands.png">
@@ -8,9 +8,10 @@
 </picture>
 
 ### Installation Instrunctions
-1. Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
-2. Save the file to path "C:Program files".
-3. :+1: Now your 'touch' command will work!
+1. 🔴 Download the file <a href="https://github.com/leonalkalai/touch_for_windows/raw/main/touch.exe" > touch.exe <a/>.
+2. 🟢 Save the file to path "C:Program files".
+3. 🟡 :+1: Now your 'touch' command will work!
+
 
 ### Usage
 ## create a file
@@ -18,18 +19,16 @@
 ## create multiple files
 ``` touch name_of_file1 > name_of_file2 ``` 
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> Save the file to path "C:Program files".
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> This version of touch is tested in cmd
 
-### Usefull links and resources
-<a href="http://myc01.free.fr/touch/"  target="_blank">myc01.free.fr</a><br/>
-<a href="https://www.npmjs.com/package/touch-for-windows/" target="_blank">touch-for-windows</a>
+> [!NOTE] 
+> ### Usefull links and resources
+> <a href="http://myc01.free.fr/touch/"  target="_blank">myc01.free.fr</a><br/>
+> <a href="https://www.npmjs.com/package/touch-for-windows/" target="_blank">touch-for-windows</a>
 
 
 
